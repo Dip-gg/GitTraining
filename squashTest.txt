@@ -1,0 +1,4 @@
+This is squashTest file
+1st entry: create new branch -> add squashTest.txt fle -> commit.
+2nd entry: edit squashTest.txt file -> commit.
+3rd entry: ReEdit squashTest.txt file -> commit.
