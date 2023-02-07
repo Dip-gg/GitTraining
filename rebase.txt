@@ -2,3 +2,6 @@ This file is to test & practice git rebase.
 
 First Try.
 Open linux instance -> Go to local repo -> change branch -> make any change
+Rebase new branch against master/main branch
+Rebase master/main branch against new branch
+Git push

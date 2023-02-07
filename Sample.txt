@@ -1,3 +1,0 @@
-Git Training
-
-This line is added to test git fetch.
