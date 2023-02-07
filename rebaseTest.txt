@@ -1,0 +1,4 @@
+This file is to test & practice git rebase.
+
+First Try.
+Open linux instance -> Go to local repo -> change branch -> make any change
