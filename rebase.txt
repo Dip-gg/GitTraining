@@ -5,3 +5,5 @@ Open linux instance -> Go to local repo -> change branch -> make any change
 Rebase new branch against master/main branch
 Rebase master/main branch against new branch
 Git push
+
+WARN: Make sure to do git pull before git rebase
